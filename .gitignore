@@ -1,0 +1,17 @@
+# editor settings
+.vscode/
+
+# typescript distribution
+dist/
+
+# node modules
+node_modules/
+
+# environment variables
+*.env
+
+# log files
+*.log
+
+# yarn lock files
+*.lock
